@@ -7,13 +7,6 @@ export default function(){
         id :2,
         name : "abc"
     },
-    {
-        id :3,
-        name : "abc"
-    },
-    {
-        id :4,
-        name : "abc"
-    }
+    {id :3,name : "abc"},{id :4,name : "abc"}
 ]
 }

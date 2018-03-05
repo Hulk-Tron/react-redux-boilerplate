@@ -12,7 +12,7 @@ import App from './component/App';
 const store = createStore(allReducer);
 
 ReactDOM.render(
-    <Provider store={store}>
+        <Provider store={store}>
         <App />
         </Provider>
         ,
